@@ -1,0 +1,48 @@
+int i = 0;int n = 55;    //ekjajekljaes
+for (i=0; i< n; i++)
+       {// Jdklfajelwjkflka
+    int j = i;
+    int k = j + i;int c = 5;
+    k= c-i;}  
+
+
+
+while (i > 0) {   //akwenflae
+    i--;
+    
+    
+    if (i > 4){
+        i -= 1;}
+}
+do {
+    
+    
+    i = i +
+    
+    1;
+    n = n - 1;
+}  while (i < n);
+n = 1;
+// laejflaei = 2
+i = i + 2;
+if (i == n) {
+    i = 0;
+    n = i;} else if (i < n) {
+        // Hello from these outside
+        n -= 13;
+        // n==n
+return i;
+    } else {
+            i++;
+    } return n;
+switch(n) {
+    case i:
+    n++; break;
+    case i+1:n--;
+    case i-1:case i+2:
+n = n + 2;    
+default:
+n = n - 2;
+break;
+}
+return n + 2;
